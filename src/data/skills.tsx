@@ -19,8 +19,11 @@ import {
 	SiStyledcomponents,
 	SiTypescript,
 	SiVite,
-	SiWordpress
+	SiWordpress,
 	SiWebpack,
+	SiShopify,
+	SiTailwindcss,
+	SiPhp,
 } from 'react-icons/si'
 
 export default [
@@ -89,14 +92,17 @@ export default [
 	},
 	{
 		name: 'Wordpress',
-		icon: <SiStyledcomponents />,
+		icon: <SiWordpress />,
 	},
 	{
 		name: 'Shopify',
-		icon: <SiStyledcomponents />,
+		icon: <SiShopify />,
 	},
 	{
 		name: 'Tailwind CSS',
-		icon: <SiStyledcomponents />,
+		icon: <SiTailwindcss />,
+	},{
+		name: 'PHP',
+		icon: <SiPhp />,
 	},
 ]
