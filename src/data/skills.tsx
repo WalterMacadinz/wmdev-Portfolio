@@ -19,6 +19,7 @@ import {
 	SiStyledcomponents,
 	SiTypescript,
 	SiVite,
+	SiWordpress
 	SiWebpack,
 } from 'react-icons/si'
 
@@ -41,10 +42,7 @@ export default [
 			'Vast experience building backend services including REST APIs, web crawlers, and more.',
 		icon: <SiNodedotjs />,
 	},
-	{
-		name: 'Electron',
-		icon: <SiElectron />,
-	},
+
 	{
 		name: 'Next.js',
 		icon: <SiNextdotjs />,
@@ -78,18 +76,6 @@ export default [
 		icon: <SiFramer />,
 	},
 	{
-		name: 'Redis',
-		icon: <SiRedis />,
-	},
-	{
-		name: 'Podman',
-		icon: <SiPodman />,
-	},
-	{
-		name: 'Rust',
-		icon: <SiRust />,
-	},
-	{
 		name: 'Postgres',
 		icon: <SiPostgresql />,
 	},
@@ -102,16 +88,15 @@ export default [
 		icon: <SiStyledcomponents />,
 	},
 	{
-		name: 'Webpack',
-		icon: <SiWebpack />,
+		name: 'Wordpress',
+		icon: <SiStyledcomponents />,
 	},
 	{
-		name: 'Express',
-		icon: <SiExpress />,
+		name: 'Shopify',
+		icon: <SiStyledcomponents />,
 	},
-
 	{
-		name: 'AWS',
-		icon: <SiAmazonaws />,
+		name: 'Tailwind CSS',
+		icon: <SiStyledcomponents />,
 	},
 ]
