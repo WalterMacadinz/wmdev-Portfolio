@@ -9,18 +9,14 @@ import {
 	SiMongodb,
 	SiNextdotjs,
 	SiNodedotjs,
-	SiPodman,
 	SiPostgresql,
 	SiReact,
-	SiRedis,
 	SiRedux,
-	SiRust,
 	SiStripe,
 	SiStyledcomponents,
 	SiTypescript,
 	SiVite,
 	SiWordpress,
-	SiWebpack,
 	SiShopify,
 	SiTailwindcss,
 	SiPhp,
@@ -101,7 +97,8 @@ export default [
 	{
 		name: 'Tailwind CSS',
 		icon: <SiTailwindcss />,
-	},{
+	},
+	{
 		name: 'PHP',
 		icon: <SiPhp />,
 	},
