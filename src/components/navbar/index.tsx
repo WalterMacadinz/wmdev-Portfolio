@@ -35,7 +35,9 @@ export default () => (
 						<a href="#contact">Contact</a>
 					</li>
 					<li onClick={() => send_analytics('Resume Downloaded')}>
-						<a href="/public/Macadini_Walter-Resume (1).pdf">Resume</a>
+						<a href="https://drive.google.com/file/d/1PTu595xzKRHns12DkZjCj81A-elSvlJf/view?usp=drive_link">
+							Resume
+						</a>
 					</li>
 				</ul>
 			</div>
