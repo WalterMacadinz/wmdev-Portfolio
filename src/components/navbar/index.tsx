@@ -21,7 +21,7 @@ export default () => (
 				<span style={{ width: '36px' }}>
 					<Logo pageScroll />
 				</span>
-				{import.meta.env.DEV ? 'Walter Macadini' : 'WalterMacadini.dev'}
+				{import.meta.env.DEV ? 'Walter Macadini' : 'Walter Macadini'}
 			</a>
 			<div>
 				<ul className={styles.list}>
