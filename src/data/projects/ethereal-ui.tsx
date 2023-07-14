@@ -19,7 +19,7 @@ export default {
 	name: 'AQUA APP',
 	role: 'Contributor, Front-End Developer',
 	description:
-		'A beautiful, modern, and accessible UI library for React. Fully open source, of course.',
+		'A Water-billing web application developed to automate manual reading of meters and to innovate the water-billing systems.',
 	link: 'https://github.com/vijaya-technologies/aqua-api',
 	image: '/ethereal2/aqualand.png',
 	toolbox: {
